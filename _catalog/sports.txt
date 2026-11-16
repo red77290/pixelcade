@@ -1,0 +1,8 @@
+bulls.png
+bulls_animated.gif
+eagles.png
+eagles_animated.gif
+jets.png
+jets_animated.gif
+steelers.png
+steelers_animated.gif

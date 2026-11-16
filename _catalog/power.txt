@@ -1,0 +1,2 @@
+Reboot.png
+Shutdown.png
