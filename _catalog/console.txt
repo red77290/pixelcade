@@ -702,6 +702,7 @@ default-nintendo_sufami_turbo.png
 default-nintendo_super_famicom.png
 default-nintendo_super_game_boy.png
 default-nintendo_switch.png
+default-nintendo_switch_2.png
 default-nintendo_virtual_boy.png
 default-nintendo_vs_sytem.png
 default-nintendo_wii.png
